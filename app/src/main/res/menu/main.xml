@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/city_search"
+        android:title="城市检索" />
+    <item
+        android:id="@+id/nearby_search"
+        android:title="周边检索" />
+
+    <item
+        android:id="@+id/walking"
+        android:title="步行规划" />
+    <item
+        android:id="@+id/driver"
+        android:title="驾车规划" />
+    <item
+        android:id="@+id/bus"
+        android:title="公交规划" />
+
+    <item
+        android:id="@+id/geo"
+        android:title="地理编码" />
+    <item
+        android:id="@+id/reverse"
+        android:title="反地理编码" />
+</menu>
